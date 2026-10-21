@@ -242,14 +242,6 @@ Waktu yang diperlukan bergantung pada ***koneksi internet, kinerja komputer, dan
 
 Jangan menutup terminal secara paksa ketika proses instalasi masih berjalan.
 
-**Screenshot yang perlu disimpan:**
-
-Simpan gambar yang menunjukkan proses pengunduhan atau instalasi dengan nama:
-
-`screenshots/04-proses-instalasi-wsl.png`
-
-![Proses instalasi WSL](screenshots/04-proses-instalasi-wsl.png)
-
 ### Langkah 3 — Memahami hasil perintah
 
 Jika proses berhasil, Windows mungkin meminta pengguna untuk melakukan restart.
