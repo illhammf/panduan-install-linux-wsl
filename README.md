@@ -212,12 +212,6 @@ Jendela terminal akan terbuka dengan hak Administrator.
 
 Pada Windows Terminal, judul tab atau jendela biasanya menunjukkan bahwa terminal berjalan sebagai Administrator.
 
-**Screenshot yang perlu disimpan:**
-
-Simpan gambar terminal yang sudah dibuka sebagai Administrator dengan nama:
-
-`screenshots/02-membuka-terminal-admin.png`
-
 ![PowerShell sebagai Administrator](screenshots/02-membuka-terminal-admin.png)
 
 ---
