@@ -794,3 +794,13 @@ Setelah menyelesaikan panduan, pengguna dapat melanjutkan pembelajaran Linux, Gi
 4. Microsoft Learn — Dokumentasi WSL: https://learn.microsoft.com/windows/wsl/
 
 Dokumentasi ini disusun sebagai panduan belajar dan dapat disesuaikan mengikuti perubahan versi Windows, WSL, Ubuntu, maupun instruksi resmi Microsoft.
+
+---
+
+## Informasi Repository
+
+- **Author:** [Ilham Firmansyah](https://github.com/illhammf)
+- **Lisensi:** [MIT License](LICENSE)
+- **Informasi pembuat:** [AUTHOR.md](AUTHOR.md)
+
+Dokumentasi ini dibuat untuk tujuan pembelajaran dan berbagi pengetahuan mengenai penggunaan Linux melalui WSL 2.
