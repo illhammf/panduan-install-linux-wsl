@@ -270,16 +270,6 @@ Setelah restart selesai, masuk kembali ke akun Windows.
 
 Jika instalasi meminta tindakan tambahan, ikuti petunjuk yang muncul di layar.
 
-**Screenshot yang perlu disimpan:**
-
-Jika muncul pesan yang meminta restart, simpan gambar pesan tersebut dengan nama:
-
-`screenshots/05-restart-windows.png`
-
-![Petunjuk restart Windows](screenshots/05-restart-windows.png)
-
-Jika tidak ada pesan restart yang muncul, bagian ini tetap dapat dijelaskan tanpa screenshot. Jangan membuat screenshot simulasi yang seolah-olah berasal dari proses instalasi asli.
-
 ---
 
 ## 11. Konfigurasi Awal Ubuntu
@@ -317,16 +307,6 @@ Ketik password dengan hati-hati, lalu masukkan kembali apabila diminta.
 ### Langkah 4 — Menyelesaikan konfigurasi
 
 Jika konfigurasi berhasil, Ubuntu akan menampilkan prompt terminal yang memungkinkan pengguna memasukkan perintah Linux.
-
-**Screenshot yang perlu disimpan:**
-
-Simpan screenshot proses pembuatan username atau tampilan awal Ubuntu dengan nama:
-
-`screenshots/06-konfigurasi-ubuntu.png`
-
-![Konfigurasi awal Ubuntu](screenshots/06-konfigurasi-ubuntu.png)
-
-Jangan menampilkan password asli dalam screenshot atau dokumentasi.
 
 ---
 
