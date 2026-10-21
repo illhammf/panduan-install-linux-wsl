@@ -175,12 +175,6 @@ Pastikan sistem menggunakan Windows 11 atau versi Windows 10 yang didukung oleh 
 
 Jika menggunakan Windows 10 versi lama, periksa persyaratan pada dokumentasi resmi Microsoft karena langkah instalasinya mungkin berbeda.
 
-**Screenshot yang perlu disimpan:**
-
-Simpan gambar jendela About Windows dengan nama:
-
-`screenshots/01-cek-versi-windows.png`
-
 ![Pemeriksaan versi Windows](screenshots/01-cek-versi-windows.png)
 
 ---
@@ -560,14 +554,6 @@ Perintah ini menampilkan username Linux yang sedang aktif.
 | `whoami` | Menampilkan username |
 | `sudo` | Menjalankan perintah dengan hak administratif |
 | `apt` | Mengelola paket pada Ubuntu dan distribusi berbasis Debian |
-
-**Screenshot yang perlu disimpan:**
-
-Simpan screenshot ketika beberapa perintah dasar berhasil dijalankan dengan nama:
-
-`screenshots/10-praktik-perintah-linux.png`
-
-![Praktik perintah dasar Linux](screenshots/10-praktik-perintah-linux.png)
 
 ---
 
