@@ -403,12 +403,6 @@ Penjelasan:
 
 Jika ketiga perintah berhasil dijalankan, lingkungan Ubuntu dapat digunakan untuk praktik Linux dasar.
 
-**Screenshot yang perlu disimpan:**
-
-Simpan screenshot yang memperlihatkan hasil pemeriksaan WSL dan perintah Linux dengan nama:
-
-`screenshots/08-verifikasi-wsl.png`
-
 ![Verifikasi WSL dan Ubuntu](screenshots/08-verifikasi-wsl.png)
 
 ---
