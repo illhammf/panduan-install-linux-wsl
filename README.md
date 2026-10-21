@@ -228,15 +228,9 @@ Di PowerShell atau Windows Terminal yang berjalan sebagai Administrator, ketik:
 wsl --install
 ```
 
-Tekan Enter.
+Tekan **Enter**.
 
 Perintah tersebut akan mengaktifkan komponen yang diperlukan untuk WSL dan memasang distribusi Ubuntu sebagai distribusi default.
-
-**Screenshot yang perlu disimpan:**
-
-Ambil screenshot terminal setelah menjalankan perintah tersebut. Gunakan nama:
-
-`screenshots/03-menjalankan-wsl-install.png`
 
 ![Menjalankan perintah instalasi WSL](screenshots/03-menjalankan-wsl-install.png)
 
