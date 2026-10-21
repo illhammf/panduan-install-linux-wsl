@@ -447,12 +447,6 @@ sudo apt update && sudo apt upgrade
 
 Operator `&&` membuat perintah kedua dijalankan apabila perintah pertama berhasil.
 
-**Screenshot yang perlu disimpan:**
-
-Simpan gambar hasil pembaruan paket dengan nama:
-
-`screenshots/09-update-ubuntu.png`
-
 ![Pembaruan paket Ubuntu](screenshots/09-update-ubuntu.png)
 
 ---
