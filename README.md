@@ -238,7 +238,7 @@ Perintah tersebut akan mengaktifkan komponen yang diperlukan untuk WSL dan memas
 
 Tunggu sampai proses pengunduhan dan instalasi selesai.
 
-Waktu yang diperlukan bergantung pada koneksi internet, kinerja komputer, dan kondisi Windows.
+Waktu yang diperlukan bergantung pada ***koneksi internet, kinerja komputer, dan kondisi Windows***.
 
 Jangan menutup terminal secara paksa ketika proses instalasi masih berjalan.
 
