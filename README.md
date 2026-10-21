@@ -337,12 +337,6 @@ Perintah tersebut membuka distribusi Linux default yang sudah terpasang.
 
 Jika Ubuntu adalah distribusi default, terminal akan masuk ke lingkungan Ubuntu.
 
-**Screenshot yang perlu disimpan:**
-
-Simpan gambar terminal Ubuntu yang berhasil dibuka dengan nama:
-
-`screenshots/07-terminal-ubuntu.png`
-
 ![Terminal Ubuntu](screenshots/07-terminal-ubuntu.png)
 
 ---
